@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524746866876.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "531085113",
+    "id" : "F679735D",
+    "lastKnownWriteTime" : 1524746887,
+    "last_content_update" : 1524746887393,
+    "path" : "~/Informatyka/git/pierwsze_repo/tekst.txt",
+    "project_path" : "tekst.txt",
+    "properties" : {
+        "cursorPosition" : "0,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
